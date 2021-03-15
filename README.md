@@ -46,9 +46,9 @@ The following Tableau workbook has been built as part of this project.
 ### Show the number of bike trips for all riders and genders for each hour of each day of the week
 
 3) Trips by weekdays by hour
-
-![Trips_by_Weekdays-Hours](Images/Trips_by_Weekdays-Hours.png)
     - The busiest times of the week are Thursdays 5pm -6pm, followed by 5pm on Fridays and 8am on Thursdays.
+![Trips_by_Weekdays-Hours](Images/Trips_by_Weekdays-Hours.png)
+  
 4) Trips by gender (weekday)
     - Thursdays 5pm - 6pm are the busiest hours of the week with males being the most frequent customers. Women are also using the service between 5pm -6pm on Thursdays the most. 
 ![Trips_by_Gender-Weekday](Images/Trips_by_Gender-Weekday.png)
@@ -72,3 +72,13 @@ The following Tableau workbook has been built as part of this project.
 8) Top starting locations
     - Popular tourist areas in the city have higher need for bike rides
 ![Top_Starting_Locations](Images/Top_Starting_Locations.png)
+
+## Summary
+- Males are more likely to use bike ride services (2.6x) than women
+- Majority of the bike rides are being used by customers that are subscribed to the services (~ 80%)
+- Thursdays 5pm - 6pm are the busiest times
+- Areas that are popular tourist spots see higher need for bike ride service
+
+*Other visualizations to create to get more insight:*
+- Number of bike rides by gender and age 
+- Age vs. customer type vs. gender to see if there is any correlation
