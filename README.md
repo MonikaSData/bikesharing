@@ -32,4 +32,3 @@ The following Tableau workbook has been built as part of this project.
 **Snapshot of final Tableau workbook**
 
 [link to dashboard](https://public.tableau.com/profile/monika.spiritova#!/vizhome/NYCCitibikeRidesAnalysisChallenge/Story1?publish=yes "Click to go to Tableau Workbook")
-<iframe seamless frameborder="0" src="https://public.tableau.com/profile/monika.spiritova#!/vizhome/NYCCitibikeRidesAnalysisChallenge/Story1?publish=yes" width = '650' height = '450' scrolling='yes' ></iframe>    
