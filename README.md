@@ -32,3 +32,16 @@ The following Tableau workbook has been built as part of this project.
 **Snapshot of final Tableau workbook**
 
 [link to dashboard](https://public.tableau.com/profile/monika.spiritova#!/vizhome/NYCCitibikeRidesAnalysisChallenge/Story1?publish=yes "Click to go to Tableau Workbook")
+
+###Show the length of time that bikes are checked out for all riders and genders
+
+1) Checkout times by users
+    - The the majority of bike rides range from just couple of minutes up to 40 minutes.
+![Checkout_Times_for_Users](Images/Checkout_Times_for_Users.png)
+
+2) Checkout times by Gender
+    - The trip duration does not seem to be dependant on the gender.
+![Checkout_Times_by_Gender](Images/Checkout_Times_by_Gender.png)
+
+
+
