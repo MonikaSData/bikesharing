@@ -16,7 +16,7 @@ Using the Tableau to create set of visualizations to communicate our findings.
 
 
 ## Resources
-- Data Source: [NYC_Citibike_Data](NYC_Citibike_Data_Converted); [Tableau Workbook](https://public.tableau.com/profile/monika.spiritova#!/vizhome/NYCCitibikeRidesAnalysisChallenge/Story1?publish=yes); 
+- Data Source: NYC_Citibike_Data_Converted (Not uploaded in GitHub due to large size); [Tableau Workbook](https://public.tableau.com/profile/monika.spiritova#!/vizhome/NYCCitibikeRidesAnalysisChallenge/Story1?publish=yes); 
 
 - Source Code: 
     [NYC_Citibike_Challenge.ipynb](NYC_Citibike_Challenge.ipynb); 
