@@ -1,5 +1,4 @@
 # bikesharing
-# bikesharing
 Analyze Citibike data in NYC using Tableau. 
 
 ## Overview of Project
